@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/product/exploring-microsoft-excel-s-hidden-treasures/9781803243948?utm_source=github&utm_medium=repository&utm_campaign=9781803243948"><img src="https://static.packt-cdn.com/products/9781803243948/cover/smaller" alt="Exploring Microsoft Excel’s Hidden Treasures" height="256px" align="right"></a>
 
-This is the code repository for [Exploring Microsoft Excel’s Hidden Treasures](https://www.packtpub.com/product/exploring-microsoft-excel-s-hidden-treasures/9781803243948?utm_source=github&utm_medium=repository&utm_campaign=9781803243948), published by Packt.
+This is the resources repository for [Exploring Microsoft Excel’s Hidden Treasures](https://www.packtpub.com/product/exploring-microsoft-excel-s-hidden-treasures/9781803243948?utm_source=github&utm_medium=repository&utm_campaign=9781803243948), published by Packt.
 
 **Turbocharge your Excel proficiency with expert tips, automation techniques, and overlooked features**
 
