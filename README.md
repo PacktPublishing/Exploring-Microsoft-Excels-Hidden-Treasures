@@ -46,3 +46,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 **David Ringstrom**
  exclaimed "Well, this is a stupid program, you can't do anything with it" the first time that he launched Lotus 1-2-3 in 1987, unaware that pressing the slash key displayed the menu. That moment sealed his fate as he is now a nationally recognized spreadsheet expert. In 1991, David started a spreadsheet consulting practice that he still runs today. David has taught over 2,000 webinars and published hundreds of articles, all on Excel, and he imparts spreadsheet skills to thousands of college students each year. He is the author or coauthor of five books and the technical editor of over 40 books. He is a certified public accountant and a graduate of Georgia State University and has served in the United States Navy.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781803243948">https://packt.link/free-ebook/9781803243948 </a> </p>
