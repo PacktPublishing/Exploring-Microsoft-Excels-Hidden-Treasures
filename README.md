@@ -22,6 +22,9 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1803
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
+## Errata
+
+* Page 16: The sentence "Choose Review | Navigation in Microsoft 365 to display the Navigation pane shown in Figure 1.11:" must be read as "Choose View | Navigation in Microsoft 365 to display the Navigation pane shown in Figure 1.11:"
 
 ## Instructions and Navigations
 All of the resources is organized into folders. For example, Chapter02.
